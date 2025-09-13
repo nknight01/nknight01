@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Nicholas Knight and I attend the University of Rio Grande.
+I am a track and field athlete throwing shot put and hammer.
 
 <!--
 **nknight01/nknight01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
