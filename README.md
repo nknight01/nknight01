@@ -14,6 +14,7 @@ www.linkedin.com/in/nicholas-knight-59546730a
 - I love to hunt, fish, golf, and listen to muisc.
 - I am a track and field athelete and throw shot put and hammer
 
+
 <!--
 **nknight01/nknight01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
