@@ -2,7 +2,8 @@
 ## I am Nicholas Knight and I am currently attenting the University of Rio Grande and Rio Grande community college. I am a Track and Field athlete and a RA on campus. I throw Hammer, shot put and discus for the track team. I love to hunt, fish, play cornhole, lift, and listen to music.
 ### Techincal skills
 ## Python, Java, C code
-
+### Current Goals
+## Learn eveyrthing I need to know about Git Hub and more to be successfull
 <!--
 **nknight01/nknight01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
