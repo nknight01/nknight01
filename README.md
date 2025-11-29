@@ -4,6 +4,8 @@
 ## Python, Java, C code
 ### Current Goals
 ## Learn eveyrthing I need to know about Git Hub and more to be successfull
+### Contact information
+## Nknight01@rio.edu, 111,111,1111, Linkdin www.linkedin.com/in/nicholas-knight-59546730a
 <!--
 **nknight01/nknight01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
