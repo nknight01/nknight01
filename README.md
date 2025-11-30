@@ -1,4 +1,3 @@
-
 # Name and Intro👋
 ## I am Nicholas Knight and I am currently attenting the University of Rio Grande and Rio Grande community college. I am a Track and Field athlete and a RA on campus. I throw Hammer, shot put and discus for the track team. I love to hunt, fish, play cornhole, lift, and listen to music.
 # Techincal skills
@@ -9,7 +8,6 @@
 ## Nknight01@rio.edu, 111,111,1111, Linkdin www.linkedin.com/in/nicholas-knight-59546730a
 # Fun facts
 ## I wear a size 16 shoe, I drive a 94 chevy, I am the president of the cornhole club.
-
 <!--
 **nknight01/nknight01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
